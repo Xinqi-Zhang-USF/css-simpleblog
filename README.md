@@ -1,13 +1,13 @@
 # css-simpleblog
 Basic CSS practice of class and id
 
-##Property Note:
+## Property Note:
 
-###text-align:
+### text-align:
 left|right|center|justify|initial|inherit;
 
-###font-family:
+### font-family:
 family-name|generic-family|initial|inherit;
 
-###font-style:
+### font-style:
 normal|italic|oblique|initial|inherit;
